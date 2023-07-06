@@ -1,0 +1,40 @@
+{
+    "members": [
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "A team member, Roshan reached out to me about being a mentor. As I already had previous experience and enjoyed robotics I decided to get involved. Past experiences in FRC: Although I don't have much experience in FRC, I have a lot of experience in VEX robotics. I was the co-captain of my high school team, which had performed to the state level. Past experiences: I am currently a student at North Carolina State University pursuing a double degree in computer and electrical engineering. In addition to this, I was the co-captain of the robotic team in high school and was in the offroad racing team at NC State.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "Short blurb about yourself and why am I typing this but it seems very cool el oh el haha i really like typing stuff to make filler text because lorem ipsum is so boring.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "Short blurb about yourself and why am I typing this but it seems very cool el oh el haha i really like typing stuff to make filler text because lorem ipsum is so boring.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "Short blurb about yourself and why am I typing this but it seems very cool el oh el haha i really like typing stuff to make filler text because lorem ipsum is so boring.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "Short blurb about yourself and why am I typing this but it seems very cool el oh el haha i really like typing stuff to make filler text because lorem ipsum is so boring.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "Chief Operating Officer",
+            "bio": "Short blurb about yourself and why am I typing this but it seems very cool el oh el haha i really like typing stuff to make filler text because lorem ipsum is so boring.",
+            "photo": "/team/TeamMemberPlaceholder.png"
+        }
+    ]
+}
