@@ -146,7 +146,7 @@ function InterestedInJoining() {
           <span className="text-dark-orange">Interested</span> in{" "}
           <span className="text-dark-orange">joining</span>? Fill out the{" "}
           <a
-            href="https://forms.gle/XDHLhtjhZRDmcG6q8"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
             className="text-dark-orange underline hover:text-dark-orange"
             target="_blank"
             rel="noreferrer"
@@ -181,7 +181,7 @@ function Jumbotron() {
           <div className="mt-8">
             <Button
               text="Join Us"
-              to="https://forms.gle/XDHLhtjhZRDmcG6q8"
+              to="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
               dark={true}
             />
           </div>

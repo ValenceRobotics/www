@@ -38,16 +38,9 @@ function Footer() {
 
             <Link
               className="text-base font-para font-normal text-gray-800 hover:text-black hover:underline"
-              href="https://docs.google.com/forms/d/e/1FAIpQLScqY1hIwYAXldG9aOpobT0Uxm4xXzQeZVyaQUJAkupFeL6QHw/viewform"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
             >
               Join the Team
-            </Link>
-            <br />
-            <Link
-              className="text-base font-para font-normal text-gray-800 hover:text-black hover:underline"
-              href="https://forms.gle/i9BU9c8wo8tTrRmQ7"
-            >
-              Become a Mentor
             </Link>
             <br />
             <Link
