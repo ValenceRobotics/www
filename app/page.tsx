@@ -25,7 +25,7 @@ export default function Home() {
               <div className="mt-8 flex justify-center gap-6">
                 <Button
                   text="Join Us"
-                  to="https://forms.gle/XDHLhtjhZRDmcG6q8"
+                  to="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
                   dark={true}
                 />
                 <Button text="Sponsor Us" to="sponsor" dark={true} />
