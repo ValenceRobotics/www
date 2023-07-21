@@ -53,11 +53,10 @@ export default function Home() {
               Who are we?
             </h3>
             <p className="text-center max-w-md mx-auto mt-3 font-para">
-              Valence Robotics is a FIRST® Robotics Competition team and 501(c)3
-              organization. Our team was established in October 2021 with the
-              mission of furthering connectivity and curiosity within the
-              community. While we operate primarily in Durham, North Carolina,
-              our members come from counties all across the state.
+              Valence Robotics is a FIRST® Robotics Competition team and
+              501(c)(3) organization. Our team was established in October 2021
+              with the mission of furthering connectivity and curiosity within
+              the Durham community.
             </p>
           </div>
         </div>
