@@ -1,7 +1,7 @@
 function Banner() {
   return (
     <a
-      href="https://www.paypal.com/paypalme/valencerobotics"
+      href="https://www.gifts.duke.edu/pratt?designation=3993153"
       rel="noreferrer"
       target="_blank"
       className="text-white font-bold font-para"
