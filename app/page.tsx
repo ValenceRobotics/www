@@ -99,11 +99,17 @@ export default function Home() {
           <h2 className="text-2xl text-center font-normal font-heading my-3">
             Xenon Tier Sponsors
           </h2>
-          <div className="columns-1 md:columns-1 gap-4">
+          <div className="columns-1 md:columns-2 gap-4">
             <SponsorCard
               companyName="Duke ECE Department"
               desc="The Department of Electrical and Computer Enginering is located at Duke University in the United States. The mission of the Department of Electrical and Computer Engineering is to facilitate the development of well rounded, educated, productive, and ethical individuals who are well versed in technology and in social, political, and environmental issues."
               img="/sponsors/dukeece.png"
+              tier="Xenon Tier Sponsor"
+            />
+            <SponsorCard
+              companyName="Thermo Fisher Scientific"
+              desc="Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue of approximately $40 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them."
+              img="/sponsors/thermofisherscientific.png"
               tier="Xenon Tier Sponsor"
             />
           </div>
