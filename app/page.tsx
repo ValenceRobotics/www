@@ -90,24 +90,9 @@ export default function Home() {
               tier="Radon Tier Sponsor"
             />
             <SponsorCard
-              companyName="Apple"
-              desc="Apple Inc. is an American multinational technology company headquartered in Cupertino, California, United States."
-              // img={apple}
-              img="/sponsors/apple.jpeg"
-              tier="Radon Tier Sponsor"
-            />
-            <SponsorCard
-              companyName="NASA"
-              desc="The National Aeronautics and Space Administration is an independent agency of the United States federal government responsible for the civilian space program, as well as aeronautics and space research."
-              // img={nasa}
-              img="/sponsors/nasa.png"
-              tier="Radon Tier Sponsor"
-            />
-            <SponsorCard
-              companyName="Burroughs Wellcome Fund"
-              desc="The Burroughs Wellcome Fund is an American non-profit medical research organization that provides funding for biomedical research, STEM education, and areas of career development for scientists. Since 1970, it has been headquartered in North Carolina's Research Triangle Park."
-              // img={burroughsWellcome}
-              img="/sponsors/burroughs.jpeg"
+              companyName="The Foundry"
+              desc="The Foundry is a 7,600-square-foot student-focused, project-centered, collaborative space where students from across Duke University and the surrounding community can build ideas from the ground up."
+              img="/sponsors/foundry.png"
               tier="Radon Tier Sponsor"
             />
           </div>
@@ -116,18 +101,15 @@ export default function Home() {
           </h2>
           <div className="columns-1 md:columns-2 gap-4">
             <SponsorCard
-              companyName="TE Connectivity"
-              desc="TE Connectivity is an American Swiss-domiciled technology company that designs and manufactures connectors and sensors for several industries, such as automotive, industrial equipment, data communication systems, aerospace, defense, medical, oil and gas, consumer electronics and energy."
-              // img={TEConnectivity}
-              img="/sponsors/teconnectivity.png"
+              companyName="Duke ECE Department"
+              desc="The Department of Electrical and Computer Enginering is located at Duke University in the United States. The mission of the Department of Electrical and Computer Engineering is to facilitate the development of well rounded, educated, productive, and ethical individuals who are well versed in technology and in social, political, and environmental issues."
+              img="/sponsors/dukeece.png"
               tier="Xenon Tier Sponsor"
             />
-
             <SponsorCard
-              companyName="Intuitive Foundation"
-              desc="The Intuitive Foundation is dedicated to reducing the global burden of disease and suffering through philanthropy, research and education aimed at better outcomes for patients everywhere"
-              // img={intuitiveFoundation}
-              img="/sponsors/intuitivefoundation.png"
+              companyName="Thermo Fisher Scientific"
+              desc="Thermo Fisher Scientific Inc. is the world leader in serving science, with annual revenue of approximately $40 billion. Our Mission is to enable our customers to make the world healthier, cleaner and safer. Whether our customers are accelerating life sciences research, solving complex analytical challenges, improving patient diagnostics and therapies or increasing productivity in their laboratories, we are here to support them."
+              img="/sponsors/thermofisherscientific.png"
               tier="Xenon Tier Sponsor"
             />
           </div>
