@@ -43,7 +43,7 @@ export default function About() {
           <div className="mt-20" />
           <OurTeam />
           <div className="mt-20" />
-          <InterestedInJoining />
+          {/* <InterestedInJoining /> */}
           {/* <MeetTheTeam /> */}
 
           <SimpleGrid
@@ -178,13 +178,13 @@ function Jumbotron() {
             Valence Robotics FRC Team 8429
           </p>
 
-          <div className="mt-8">
+          {/* <div className="mt-8">
             <Button
               text="Join Us"
               to="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
               dark={true}
             />
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

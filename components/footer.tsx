@@ -36,13 +36,13 @@ function Footer() {
               Get Involved
             </h1>
 
-            <Link
+            {/* <Link
               className="text-base font-para font-normal text-gray-800 hover:text-black hover:underline"
               href="https://docs.google.com/forms/d/e/1FAIpQLSeLQs0lQfWemMqAMV-yV4p-2MpGGPK2U-7s2skTfnoMSWUepQ/viewform"
             >
               Join the Team
             </Link>
-            <br />
+            <br /> */}
             <Link
               href="sponsor"
               className="text-base font-para font-normal text-gray-800 hover:text-black hover:underline"
