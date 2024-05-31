@@ -105,10 +105,10 @@ const links = [
     label: "Sponsor",
     href: "/sponsor",
   },
-  {
+  /* {
     label: "Resources",
     href: "/resources",
-  },
+  }, */
   // {
   //     label: 'Camps',
   //     href: '/camps',
