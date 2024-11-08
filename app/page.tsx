@@ -28,6 +28,7 @@ export default function Home() {
                   to="https://forms.gle/xLUby8H11ygVrqY88"
                   dark={true}
                 />
+                <Button text="Donate" to="https://www.gifts.duke.edu/pratt?designation=3993153" dark={true} />
                 <Button text="Sponsor Us" to="sponsor" dark={true} />
               </div>
             </div>

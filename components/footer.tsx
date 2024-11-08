@@ -88,7 +88,7 @@ function Footer() {
 
       <div className="mt-16 mx-16 lg:mx-32 h-1 bg-slate-900 opacity-40" />
       <p className="mt-4 text-center text-grey-text opacity-87 font-para dark:text-slate-900">
-        &copy; 2021 Valence Robotics | All Rights Reserved
+        &copy; 2024 Valence Robotics | All Rights Reserved
       </p>
     </div>
   );
