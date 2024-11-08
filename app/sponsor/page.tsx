@@ -30,9 +30,9 @@ function Sponsor() {
           <span className="text-black dark:text-slate-200">Tiers</span>
         </h1>
         <p className="text-center text-lg mt-2 max-w-5xl mx-auto ">
-          Only sponsorships finalized before February 14, 2022 will be included
-          on the 21-22 season team shirts. However, sponsorships received after
-          this date will be included on next team&apos;s shirts and will be
+          Only sponsorships finalized before February 7, 2025 will be included
+          on the 2024-25 season team shirts. However, sponsorships received after
+          this date will be included on next season&apos;s team shirts and will be
           featured on the current website.
         </p>
         <Tier />

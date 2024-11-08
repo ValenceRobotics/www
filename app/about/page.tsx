@@ -178,12 +178,13 @@ function Jumbotron() {
             Valence Robotics FRC Team 8429
           </p>
 
-          <div className="mt-8">
+          <div className="mt-8 flex justify-center gap-6">
             <Button
               text="Join Us"
               to="https://forms.gle/xLUby8H11ygVrqY88"
               dark={true}
             />
+            <Button text="Donate" to="https://www.gifts.duke.edu/pratt?designation=3993153" dark={true} />
           </div>
         </div>
       </div>
