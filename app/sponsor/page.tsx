@@ -32,7 +32,7 @@ function Sponsor() {
         <p className="text-center text-lg mt-2 max-w-5xl mx-auto ">
           Only sponsorships finalized before February 7, 2025 will be included
           on the 2024-25 season team shirts. However, sponsorships received after
-          this date will be included on next season's team shirts and will be
+          this date will be included on next season&apos;s team shirts and will be
           featured on the current website.
         </p>
         <Tier />
