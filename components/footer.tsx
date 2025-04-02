@@ -30,6 +30,13 @@ function Footer() {
               About Us
             </Link>
             <br />
+            <Link
+              href="fll-guide"
+              className="text-base font-normal text-gray-800 hover:text-black hover:underline font-para"
+            >
+              FLL Guide
+            </Link>
+            <br />
           </div>
           <div>
             <h1 className="font-bold text-xl mb-2 font-heading">

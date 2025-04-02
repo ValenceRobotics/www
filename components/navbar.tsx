@@ -105,6 +105,10 @@ const links = [
     label: "Sponsor",
     href: "/sponsor",
   },
+  {
+    label: "FLL Guide",
+    href: "/fll-guide",
+  },
   /* {
     label: "Resources",
     href: "/resources",
