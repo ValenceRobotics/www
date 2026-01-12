@@ -114,6 +114,18 @@ export default function Home() {
               tier="Xenon Tier Sponsor"
             />
           </div>
+          <h2 className="text-2xl text-center font-normal font-heading my-3">
+            Partners
+          </h2>
+          <div className="columns-1 md:columns-1 gap-4">
+            <SponsorCard
+              companyName="Fabworks"
+              href="https://www.fabworks.com"
+              desc="Fabworks is the fastest way to get your sheet metal and tube parts manufactured."
+              img="/sponsors/fabworks.png"
+              tier="Partner"
+            />
+          </div>
         </div>
       </div>
     </>
