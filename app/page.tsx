@@ -117,7 +117,7 @@ export default function Home() {
           <h2 className="text-2xl text-center font-normal font-heading my-3">
             Partners
           </h2>
-          <div className="columns-1 md:columns-1 gap-4">
+          <div className="columns-1 md:columns-2 gap-4">
             <SponsorCard
               companyName="Fabworks"
               href="https://www.fabworks.com"
@@ -125,9 +125,14 @@ export default function Home() {
               img="/sponsors/fabworks.png"
               tier="Partner"
             />
+            <SponsorCard
+              companyName="Limelight"
+              href="https://limelightofnc.com/"
+              desc="Custom screen print and embroidery. For businesses, family reunion, schools, sport teams and churches."
+              img="/sponsors/limelight.webp"
+              tier="Partner"
+            />
           </div>
-          {/* test */}
-          <a href="https://www.fabworks.com">Fabworks</a>
         </div>
       </div>
     </>
